@@ -1,0 +1,5 @@
++++
+archetype = "home"
+title = ""
++++
+

@@ -1,0 +1,10 @@
+baseURL = 'https://ostrichdb.org/'
+languageCode = 'en-us'
+title = 'OstrichDB Documentation'
+theme = 'hugo-theme-relearn'
+author.name = "Marshall A. Burns"
+[params]
+themeVariant = ['relearn-light', 'relearn-dark']
+[outputs]
+home = ['html', 'rss', 'search', 'searchpage']
+

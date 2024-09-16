@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning OstrichDB :: OstrichDB Documentation</title>
+    <link>http://localhost:1313/intermediate/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/intermediate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ATOMS</title>
+      <link>http://localhost:1313/intermediate/atoms/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/atoms/index.html</guid>
+      <description>What Are Atoms In OstrichDB? Similiar to querys in SQL, commands in OstrichDB are groupings of tokens dubbed “ATOMS”. These ATOMS are given this name for two reasons:&#xA;Atoms in our the basic building blocks of the universe as we know it. So why not give this fitting name to the basic building blocks of OstrichDB commands? The OstrichDB parser is specifically designed to parse commands based off of the ATOMS a command is provied. A.T.O.M.S Continuing with talking about the parser. ATOMS is an acronym that stands for:</description>
+    </item>
+    <item>
+      <title>Creating Your First Collection &amp; Cluster</title>
+      <link>http://localhost:1313/intermediate/first_collection/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/first_collection/index.html</guid>
+      <description>Creating Your First Collection &amp; Cluster Now that you have a better understanding of how commands in OstrichDB work. Lets create a collection to store some data.&#xA;From your OstrichDB command line, type the following command:&#xA;OST&gt;&gt;&gt; NEW COLLECTION my_collection This should successfully create a new collection called my_collection. In its current state you can view the collection from you file explorer. To do this</description>
+    </item>
+    <item>
+      <title>Creating And Working With Records</title>
+      <link>http://localhost:1313/intermediate/records/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/records/index.html</guid>
+      <description>Records! Now its time to create some records in your cluster. Records are the actual data that you want to store in your cluster. They work and look similar to key-value pairs in other JSON. But there are some key differences that make them unique to OstrichDB&#xA;If you rememebr the command for creating cluster you might think it would be NEW RECORD foo WITHIN CLUSTER bar WITHIN COLLECTION baz. but thankfully its not that complicated.</description>
+    </item>
+  </channel>
+</rss>
