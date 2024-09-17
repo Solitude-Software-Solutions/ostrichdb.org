@@ -28,5 +28,12 @@
       <guid>http://localhost:1313/intermediate/records/index.html</guid>
       <description>Records! Now its time to create some records in your cluster. Records are the actual data that you want to store in your cluster. They work and look similar to key-value pairs in other JSON. But there are some key differences that make them unique to OstrichDB&#xA;If you rememebr the command for creating cluster you might think it would be NEW RECORD foo WITHIN CLUSTER bar WITHIN COLLECTION baz. but thankfully its not that complicated.</description>
     </item>
+    <item>
+      <title>Learning By Example</title>
+      <link>http://localhost:1313/intermediate/examples/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/examples/index.html</guid>
+      <description>In This Section you will learn about OstrichDB’s commands by example. Here are several examples of valid commands in OstrichDB that you can try out.&#xA;Example 1: Creating a new collection OST&gt;&gt;&gt; NEW COLLECTION users Note: This will create a new collection called “users”.&#xA;Example 2: Fetching a collection OST&gt;&gt;&gt; FETCH COLLECTION users</description>
+    </item>
   </channel>
 </rss>

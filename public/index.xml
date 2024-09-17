@@ -14,5 +14,19 @@
       <guid>http://localhost:1313/basics/index.html</guid>
       <description>Introduction</description>
     </item>
+    <item>
+      <title>Learning OstrichDB</title>
+      <link>http://localhost:1313/intermediate/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intermediate/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inner Workings of OstrichDB</title>
+      <link>http://localhost:1313/advanced/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/advanced/index.html</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

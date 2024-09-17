@@ -1,7 +1,7 @@
 +++
 archetype = "topic"
 title = "Learning By Example"
-weight = 3
+weight = 4
 +++
 
 
@@ -29,7 +29,7 @@ OST>>> RENAME COLLECTION users TO people
 
 or
 
-RENAME CLUSTER my_cluster WITHIN COLLECTION users TO your_cluster
+OST>>> RENAME CLUSTER my_cluster WITHIN COLLECTION users TO your_cluster
 ```
 Note: This will rename the collection or cluster to the new name provided.
 

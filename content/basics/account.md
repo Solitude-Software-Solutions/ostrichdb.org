@@ -13,7 +13,7 @@ Note: Be sure not to use any private information in either the username or passw
 
 Once you have successfully created a password you will need to relaunch OstrichDB.
 ```bash
-./main.bin
+$ ./main.bin
 ```
 
 Now you can log in with the information you provided when creating an account.

@@ -4,10 +4,28 @@
     <loc>http://localhost:1313/basics/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/intermediate/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/basics/understanding_ostrichdb/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/intermediate/atoms/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/basics/installation/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/basics/account/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/intermediate/first_collection/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/examples/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/intermediate/records/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/categories/index.html</loc>

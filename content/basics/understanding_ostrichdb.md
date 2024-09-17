@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Understanding OstrichDB"
-weight = 1
+weight = 2
 +++
 
 ### Buzz Words Galore
